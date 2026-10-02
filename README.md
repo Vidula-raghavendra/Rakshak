@@ -1,5 +1,7 @@
 # Hyderabad Traffic Monitor - AI-Powered CCTV Analysis
 
+> **This is the original prototype of Rakshak.** The current version — with the FastAPI inference server, the NEXUS AI city governor and Twilio alerts — lives at **[Vidula-raghavendra/rakshakxnexus](https://github.com/Vidula-raghavendra/rakshakxnexus)**. This repo is archived and kept for reference.
+
 An advanced traffic monitoring system for Hyderabad that uses YOLOv8 AI model to analyze CCTV footage and detect traffic incidents in real-time.
 
 ## Features
